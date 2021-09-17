@@ -1,0 +1,1 @@
+ if_CFR = "is" if args.CFR_agent_info != None else "is not", CFR_info = None if args.CFR_agent_info != None else args.CFR_agent_info)
